@@ -26,5 +26,5 @@
 [![](https://skillicons.dev/icons?i=git,kubernetes,docker,cs,py,bash,dotnet,go,js,windows)](https://skillicons.dev)
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kripovskii&show_icons=true&theme=radical)
 
