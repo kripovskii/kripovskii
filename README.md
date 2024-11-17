@@ -10,7 +10,6 @@
 ## About Me
 - 🔭 I’m currently working on VVSU.
 - 🌱 I’m currently learning Swift.
-![iamge](image.png)
 ## Skills
 - .NET Framework
 - C#
@@ -22,5 +21,4 @@
 - HTML/CSS/JavaScript
 - Golang
 - Python
-
 [![](https://skillicons.dev/icons?i=git,kubernetes,docker,cs,py,bash,dotnet,go,js,windows)](https://skillicons.dev)
