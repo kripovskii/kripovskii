@@ -10,7 +10,7 @@
 ## About Me
 - 🔭 I’m currently working on VVSU.
 - 🌱 I’m currently learning Swift.
-![alt text](image.png)
+![iamge](image.png)
 ## Skills
 - .NET Framework
 - C#
@@ -24,7 +24,3 @@
 - Python
 
 [![](https://skillicons.dev/icons?i=git,kubernetes,docker,cs,py,bash,dotnet,go,js,windows)](https://skillicons.dev)
-
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kripovskii&show_icons=true&theme=radical)
-
