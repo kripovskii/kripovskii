@@ -9,7 +9,6 @@
 ```         
 ## About Me
 - 🔭 I’m currently working on VVSU.
-- 🌱 I’m currently learning Swift.
 ## Skills
 - .NET Framework
 - C#
